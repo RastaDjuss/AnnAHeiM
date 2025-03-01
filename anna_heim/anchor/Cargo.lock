@@ -220,6 +220,7 @@ name = "anna_heim"
 version = "0.1.0"
 dependencies = [
  "anchor-lang",
+ "solana-program",
 ]
 
 [[package]]
@@ -1108,6 +1109,7 @@ name = "onchain-voting"
 version = "0.1.0"
 dependencies = [
  "anchor-lang",
+ "solana-program",
 ]
 
 [[package]]
